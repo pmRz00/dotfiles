@@ -1,1 +1,1 @@
-[ -f ~/.kubectl_aliases ] && source ~/.kubectl_aliases
+[ -f ~/dotfiles/.kubectl_aliases ] && source ~/dotfiles/.kubectl_aliases
